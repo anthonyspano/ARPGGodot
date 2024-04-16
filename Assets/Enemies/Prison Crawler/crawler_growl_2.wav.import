@@ -1,0 +1,23 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/crawler_growl_2.wav-d43013382313dee902fa813dbd1a0ef8.sample"
+
+[deps]
+
+source_file="res://Assets/Enemies/Prison Crawler/crawler_growl_2.wav"
+dest_files=[ "res://.import/crawler_growl_2.wav-d43013382313dee902fa813dbd1a0ef8.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

@@ -1,0 +1,9 @@
+C:\Users\Anthony\Documents\godotprojects\The Demiurge\.mono\temp\obj\Debug\the demiurge.csproj.AssemblyReference.cache
+C:\Users\Anthony\Documents\godotprojects\The Demiurge\.mono\temp\obj\Debug\the demiurge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anthony\Documents\godotprojects\The Demiurge\.mono\temp\obj\Debug\the demiurge.AssemblyInfoInputs.cache
+C:\Users\Anthony\Documents\godotprojects\The Demiurge\.mono\temp\obj\Debug\the demiurge.AssemblyInfo.cs
+C:\Users\Anthony\Documents\godotprojects\The Demiurge\.mono\temp\obj\Debug\the demiurge.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\Documents\godotprojects\The Demiurge\.mono\temp\bin\Debug\the demiurge.dll
+C:\Users\Anthony\Documents\godotprojects\The Demiurge\.mono\temp\bin\Debug\the demiurge.pdb
+C:\Users\Anthony\Documents\godotprojects\The Demiurge\.mono\temp\obj\Debug\the demiurge.dll
+C:\Users\Anthony\Documents\godotprojects\The Demiurge\.mono\temp\obj\Debug\the demiurge.pdb

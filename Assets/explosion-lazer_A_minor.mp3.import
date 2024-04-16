@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/explosion-lazer_A_minor.mp3-bd695e38756f0d2033c140708e3a6be7.mp3str"
+
+[deps]
+
+source_file="res://Assets/explosion-lazer_A_minor.mp3"
+dest_files=[ "res://.import/explosion-lazer_A_minor.mp3-bd695e38756f0d2033c140708e3a6be7.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

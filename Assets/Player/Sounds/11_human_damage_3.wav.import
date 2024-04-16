@@ -1,0 +1,23 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/11_human_damage_3.wav-7a4caf2791928567a1da4961c5c11544.sample"
+
+[deps]
+
+source_file="res://Assets/Player/Sounds/11_human_damage_3.wav"
+dest_files=[ "res://.import/11_human_damage_3.wav-7a4caf2791928567a1da4961c5c11544.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

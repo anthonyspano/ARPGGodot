@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qJ13Iyjqlgo6hJyi3MvgwovQra4M6xta6Laq4mkifNbnpuLK44Qu07mdQ3KR43NpeTz58on4+itvQ5dhpRVvNQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Anthony\\Documents\\godotprojects\\The Demiurge\\the demiurge.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anthony\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.2\\microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "C:\\Users\\Anthony\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.2\\microsoft.netframework.referenceassemblies.net472.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
